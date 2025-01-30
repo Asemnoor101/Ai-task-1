@@ -84,7 +84,7 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
-pip install tensorflow numpy opencv-python pillow h5py
+
 
 ```
 

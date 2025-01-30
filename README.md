@@ -11,7 +11,7 @@ This project is an **image classification system** trained using **Google Teacha
 2. **Created three classes**:
    - ✋ `Class 1`: Open Hand
    - 👍 `Class 2`: LIke sign
-   - ✌ `Class 4`: Peace Sign
+   - ✌ `Class 3`: Peace Sign
 3. **Exported the model** in TensorFlow **(.h5 format)**.
 4. **Developed a Python script** to load the model and perform real-time predictions using a webcam.
 5. **Implemented OpenCV** for capturing webcam frames and displaying predictions.
